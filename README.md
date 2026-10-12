@@ -1,4 +1,6 @@
-# equilibrio hidrostático
+为了方便仓库管理，合并到`dsh-taller-y-relojeria-de-sandrone`仓库。本仓库只做存档。
+
+# Equilibrio Hidrostático
 
 > **为什么叫这个名字**：流体静力平衡（ $\frac{dP}{dr} = -\frac{G M(r) \rho(r)}{r^{2}}$ ）是**宇宙一切大型天体能够存在的最基本约束条件** —— 它不是天体的某项功能，而是让结构成立的前提；引力向内的自发起作用，压力梯度向外的恰好抵消，差一点就塌。
 >
